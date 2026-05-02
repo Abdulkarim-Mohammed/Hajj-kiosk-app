@@ -4,6 +4,8 @@ A self-service touchscreen kiosk application designed for Hajj pilgrims to book
 Tawaf or Sa'ee time slots, make payments, and collect wristbands — without
 needing any assistance.
 
+Check it via this link: hajj-kiosk-app.vercel.app
+
 ##  Features
 
 -  Bilingual support — Arabic (full RTL layout) & English
